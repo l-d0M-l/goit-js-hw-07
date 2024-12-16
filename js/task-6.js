@@ -36,6 +36,8 @@ createBtn.addEventListener("click", createHandler);
 function createHandler(event) {
   event.preventDefault();
 
+  resultBoxes.innerHTML = "";
+
   const quantityBoxes = mainBox.children[0].value;
   mainBox.children[0].value = 0;
   createBoxes(quantityBoxes);
