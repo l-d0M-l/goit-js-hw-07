@@ -1,0 +1,6 @@
+.change-color {
+  background-color: teal;
+  color: white;
+  border: 1px dashed black;
+  border-radius: 4px;
+}

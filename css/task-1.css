@@ -1,0 +1,21 @@
+.item {
+  background-color: rgba(156, 76, 209, 0.3);
+  width: 400px;
+  border-radius: 10px;
+  padding: 5px;
+  margin: 10px;
+}
+.item li {
+  border: 1px solid grey;
+  margin-bottom: 5px;
+  width: 350px;
+  border-radius: 5px;
+  padding: 3px;
+}
+.item ul {
+  list-style-type: none;
+}
+
+#categories {
+  list-style-type: none;
+}

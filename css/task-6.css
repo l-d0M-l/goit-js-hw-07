@@ -1,0 +1,19 @@
+.create-btn {
+  color: white;
+  background-color: teal;
+  border-radius: 3px;
+  border: none;
+  outline: none;
+}
+
+.destroy-btn {
+  color: white;
+  background-color: rgb(0, 34, 128);
+  border-radius: 3px;
+  border: none;
+  outline: none;
+}
+.input-num {
+  border: 1px solid teal;
+  border-radius: 4px;
+}
